@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**ud0uglas/ud0uglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>
+hello!
+<br>
+<br>
+I'm <i>Douglas</i>, a <b>23yo</b> software engineer.
+<br>
+<br>
+info:
+<ul>
+  <li>i love working with <b>c++</b></li>
+  <li>I love low-level world <b>gamedev</b> and <b>opengl</b></li>
+  <li>I entered this world in 2014 at the age of 13, when I was programming plugins for <b>Minecraft</b>.</li>
+  <li>brazilian</li>
+</ul>
+contact:
+<ul>
+  <li>email: <a href="mailto:douglas.dhcb89@gmail.com">douglas.dhcb89@gmail.com</a></li>
+  <li>linkedin: <a href="https://www.linkedin.com/in/douglasb81/">douglas</a></li>
+</ul>
+</samp>
